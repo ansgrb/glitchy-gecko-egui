@@ -1,0 +1,12 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/writeable-927892c9ad2bc909.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/cmp.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/concat.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/impls.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/ops.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/parts_write_adapter.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/replace.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/try_writeable.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/libwriteable-927892c9ad2bc909.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/cmp.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/concat.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/impls.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/ops.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/parts_write_adapter.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/replace.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/try_writeable.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/cmp.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/concat.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/impls.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/ops.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/parts_write_adapter.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/replace.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/writeable/src/try_writeable.rs:

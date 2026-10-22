@@ -1,0 +1,11 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/x86_64-linux-android/release/deps/fdeflate-4a6b2a4c2227ee21.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/compress.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/decompress.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/huffman.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/tables.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/x86_64-linux-android/release/deps/libfdeflate-4a6b2a4c2227ee21.rlib: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/compress.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/decompress.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/huffman.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/tables.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/x86_64-linux-android/release/deps/libfdeflate-4a6b2a4c2227ee21.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/compress.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/decompress.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/huffman.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/tables.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/compress.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/decompress.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/huffman.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/fdeflate/src/tables.rs:

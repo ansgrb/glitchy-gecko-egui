@@ -1,0 +1,10 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/x86_64-linux-android/release/deps/icu_normalizer-b3f3ae440a701e0d.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/properties.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/provider.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/uts46.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/x86_64-linux-android/release/deps/libicu_normalizer-b3f3ae440a701e0d.rlib: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/properties.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/provider.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/uts46.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/x86_64-linux-android/release/deps/libicu_normalizer-b3f3ae440a701e0d.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/properties.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/provider.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/uts46.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/properties.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/provider.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/icu_normalizer/src/uts46.rs:

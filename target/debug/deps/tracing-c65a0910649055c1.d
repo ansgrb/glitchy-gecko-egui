@@ -1,0 +1,12 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/tracing-c65a0910649055c1.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/macros.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/dispatcher.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/field.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/instrument.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/level_filters.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/span.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/subscriber.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/libtracing-c65a0910649055c1.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/macros.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/dispatcher.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/field.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/instrument.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/level_filters.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/span.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/subscriber.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/macros.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/dispatcher.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/field.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/instrument.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/level_filters.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/span.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tracing/src/subscriber.rs:

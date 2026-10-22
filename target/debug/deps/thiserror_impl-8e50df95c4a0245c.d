@@ -1,0 +1,17 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/thiserror_impl-8e50df95c4a0245c.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/ast.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/attr.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/expand.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/fallback.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/fmt.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/generics.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/prop.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/scan_expr.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/unraw.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/valid.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/libthiserror_impl-8e50df95c4a0245c.so: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/ast.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/attr.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/expand.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/fallback.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/fmt.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/generics.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/prop.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/scan_expr.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/unraw.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/valid.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/ast.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/attr.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/expand.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/fallback.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/fmt.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/generics.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/prop.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/scan_expr.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/unraw.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/thiserror-impl/src/valid.rs:
+
+# env-dep:CARGO_PKG_VERSION_PATCH=21

@@ -1,0 +1,12 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/jni_macros-b1b5097154cfe75f.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/bind_java_type.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/mangle.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/native_method.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/signature.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/str.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/types.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/utils.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/libjni_macros-b1b5097154cfe75f.so: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/bind_java_type.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/mangle.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/native_method.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/signature.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/str.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/types.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/utils.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/bind_java_type.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/mangle.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/native_method.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/signature.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/str.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/types.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/jni-macros/src/utils.rs:

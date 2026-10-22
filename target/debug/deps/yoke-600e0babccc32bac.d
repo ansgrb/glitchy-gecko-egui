@@ -1,0 +1,13 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/yoke-600e0babccc32bac.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/cartable_ptr.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/either.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/kinda_sorta_dangling.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/macro_impls.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/utils.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/yoke.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/yokeable.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/zero_from.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/libyoke-600e0babccc32bac.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/cartable_ptr.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/either.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/kinda_sorta_dangling.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/macro_impls.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/utils.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/yoke.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/yokeable.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/zero_from.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/cartable_ptr.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/either.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/kinda_sorta_dangling.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/macro_impls.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/utils.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/yoke.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/yokeable.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/yoke/src/zero_from.rs:

@@ -1,0 +1,17 @@
+[workspace]
+
+[package]
+name = "glitchy-gecko-egui"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "glitchy_gecko_egui"
+crate-type = ["cdylib"]
+
+[dependencies]
+egui = "0.31"
+eframe = { version = "0.31", default-features = false, features = ["glow", "android-native-activity"] }
+android-activity = { version = "0.6", features = ["native-activity"] }
+log = "0.4"
+android_logger = "0.14"

@@ -1,0 +1,10 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/release/deps/owned_ttf_parser-9158f8fb50ca1b40.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/convert.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/owned.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/preparse.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/release/deps/libowned_ttf_parser-9158f8fb50ca1b40.rlib: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/convert.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/owned.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/preparse.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/release/deps/libowned_ttf_parser-9158f8fb50ca1b40.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/convert.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/owned.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/preparse.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/convert.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/owned.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/owned_ttf_parser/src/preparse.rs:

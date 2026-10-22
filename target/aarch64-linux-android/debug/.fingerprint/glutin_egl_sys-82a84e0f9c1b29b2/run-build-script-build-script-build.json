@@ -1,0 +1,1 @@
+{"rustc":5244445300240561903,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[7191709312698686449,"build_script_build",false,17313831177890766495]],"local":[{"RerunIfChanged":{"output":"aarch64-linux-android/debug/build/glutin_egl_sys-82a84e0f9c1b29b2/output","paths":["build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}

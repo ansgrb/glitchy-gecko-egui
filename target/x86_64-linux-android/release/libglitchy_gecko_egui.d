@@ -1,0 +1,1 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/x86_64-linux-android/release/libglitchy_gecko_egui.so: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/src/lib.rs

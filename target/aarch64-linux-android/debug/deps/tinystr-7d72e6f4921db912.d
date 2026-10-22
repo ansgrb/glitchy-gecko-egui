@@ -1,0 +1,12 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/tinystr-7d72e6f4921db912.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/macros.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/ascii.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/asciibyte.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/error.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/int_ops.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/unvalidated.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/ule.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/libtinystr-7d72e6f4921db912.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/macros.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/ascii.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/asciibyte.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/error.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/int_ops.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/unvalidated.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/ule.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/macros.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/ascii.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/asciibyte.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/error.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/int_ops.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/unvalidated.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/tinystr/src/ule.rs:

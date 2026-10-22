@@ -1,0 +1,12 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/libloading-2cb707155736ae36.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/changelog.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/error.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/mod.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/unix/mod.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/unix/consts.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/safe.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/util.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/liblibloading-2cb707155736ae36.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/changelog.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/error.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/mod.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/unix/mod.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/unix/consts.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/safe.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/util.rs
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/changelog.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/error.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/mod.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/unix/mod.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/os/unix/consts.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/safe.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/libloading/src/util.rs:

@@ -1,0 +1,11 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/egui_glow-cdc75aed7727be18.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/painter.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/misc_util.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader_version.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/vao.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader/vertex.glsl /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader/fragment.glsl
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/aarch64-linux-android/debug/deps/libegui_glow-cdc75aed7727be18.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/painter.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/misc_util.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader_version.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/vao.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader/vertex.glsl /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader/fragment.glsl
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/painter.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/misc_util.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader_version.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/vao.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader/vertex.glsl:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/egui_glow/src/shader/fragment.glsl:

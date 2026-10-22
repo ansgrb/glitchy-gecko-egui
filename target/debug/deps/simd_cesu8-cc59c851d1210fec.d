@@ -1,0 +1,12 @@
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/simd_cesu8-cc59c851d1210fec.d: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/error.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/mod.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/fallback.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/word.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/internal.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/mutf8.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/README.md
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/templates/glitchy-gecko-egui/target/debug/deps/libsimd_cesu8-cc59c851d1210fec.rmeta: /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/lib.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/error.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/mod.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/fallback.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/word.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/internal.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/mutf8.rs /home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/README.md
+
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/lib.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/error.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/mod.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/fallback.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/implementation/word.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/internal.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/mutf8.rs:
+/home/ansgrb/backyard/acousticdrop/acousticdrop-workspace/vendor/simd_cesu8/src/README.md:
